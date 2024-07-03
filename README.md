@@ -24,3 +24,7 @@ Propulsion Systems, Aerospace Modeling and Simulation, Structural Analysis, Spac
 Environments, Experimental Stress Analysis, Human Spaceflight, Engineering Dynamics
 ### Computer Science
 Data Structures, Data Science, Distributed Computing, Object Oriented Programming
+
+## Contact Info
+justinferrales@gmail.com
+For additional contact info check out my resume featured on my LinkedIn!
