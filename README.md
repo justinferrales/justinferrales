@@ -13,7 +13,6 @@ I am a recent graduate from Cal Poly with a B.S. in Aerospace Engineering with a
 
 ## Skills
 ### Programming Languages
-<img src="https://www.google.com/search?sca_esv=997805547b584ef0&sca_upv=1&rlz=1C1UEAD_enUS1058US1058&sxsrf=ADLYWIISDouj5uII4u5cOLpRS6Qexxhe0g:1720078604726&q=python&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J_86uWOeqwdnV0yaSF-x2jrJh7Dt5wV71ckxEPe_0GQyc61_Jkg5ZI9z4zNW20fWd2tUn_HrTAULuFP7u75dytEkiWC15l7moHi_nYsx6bYU7gYxjHncfuRcjwgxByi-2dbm91Px5JKg1Jotj8vdUSEMemJ8XA6RB42LqHkYBEFrl5n20w&sa=X&ved=2ahUKEwiJuOGR8IyHAxU7IkQIHY3GAQMQtKgLegQIGBAB&biw=1536&bih=791&dpr=1.25#vhid=QY4YKaALfnOG3M&vssid=Python%20Programming%20Language" alt="LinkedIn" width="50" />
 
 python, MATLAB, Java, Scala, Arduino, R, Excel, Microsoft Office
 
