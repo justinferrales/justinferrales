@@ -31,4 +31,5 @@ Data Structures, Data Science, Distributed Computing, Object Oriented Programmin
 
 ## Contact Info
 justinferrales@gmail.com
+
 For additional contact info check out my resume featured on my LinkedIn!
