@@ -14,6 +14,8 @@ I am a recent graduate from Cal Poly with a B.S. in Aerospace Engineering with a
 ### Programming Languages
 
 python, MATLAB, Java, Scala, Arduino, R, Excel, Microsoft Office
+![alt text](https://www.google.com/imgres?q=python&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fc%2Fc3%2FPython-logo-notext.svg%2F1200px-Python-logo-notext.svg.png&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FPython_(programming_language)&docid=3wRBXLyvECcz0M&tbnid=GoXB3tma5wjkyM&vet=12ahUKEwjm96Pt8IyHAxV1HNAFHTWiAgUQM3oECBcQAA..i&w=1200&h=1315&hcb=2&ved=2ahUKEwjm96Pt8IyHAxV1HNAFHTWiAgUQM3oECBcQAA)
+
 
 ### Technologies/Frameworks
 Hadoop, Spark, scikit-learn, JUnit, MapReduce, Plotly, pandas
