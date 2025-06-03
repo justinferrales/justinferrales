@@ -9,7 +9,7 @@
 
 
 ## About Me
-I am a recent graduate from Cal Poly with a B.S. in Aerospace Engineering with a concentration in astronautics as well as a minor in computer science. I have a wide variety of interests including (but not limited to): machine learning, big data analytics, and everything aerospace! Included in my Github profile are some of the projects and assignments that I had worked on during my time here at Cal Poly. Feel free to reach out to me with any questions, comments, or concerns!
+I am a recent graduate from Cal Poly with a B.S. in Aerospace Engineering with a concentration in astronautics as well as a minor in computer science. I have a wide variety of interests including (but not limited to): machine learning, big data analytics, and everything aerospace! Included in my Github profile are some of the projects and assignments that I had worked on during my time here at Cal Poly. Feel free to reach out to me with any questions, comments, or concerns.
 
 
 ### Programming Languages
